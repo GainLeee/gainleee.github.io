@@ -4,7 +4,7 @@
   <title><![CDATA[Gain's Blog]]></title>
   <link href="http://GainLeee.github.io/atom.xml" rel="self"/>
   <link href="http://GainLeee.github.io/"/>
-  <updated>2014-06-29T14:14:41+08:00</updated>
+  <updated>2014-06-29T14:19:32+08:00</updated>
   <id>http://GainLeee.github.io/</id>
   <author>
     <name><![CDATA[Gain]]></name>
@@ -12,5 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First]]></title>
+    <link href="http://GainLeee.github.io/blog/2014/06/29/first/"/>
+    <updated>2014-06-29T14:16:05+08:00</updated>
+    <id>http://GainLeee.github.io/blog/2014/06/29/first</id>
+    <content type="html"><![CDATA[<pre><code>又搭起octopress了，但我很懒，以后也不会保持更新博客的固定频率。
+</code></pre>
+]]></content>
+  </entry>
   
 </feed>
