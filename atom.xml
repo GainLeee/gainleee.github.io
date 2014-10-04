@@ -4,7 +4,7 @@
   <title><![CDATA[Gain's Blog]]></title>
   <link href="http://GainLeee.github.io/atom.xml" rel="self"/>
   <link href="http://GainLeee.github.io/"/>
-  <updated>2014-10-04T15:15:19+08:00</updated>
+  <updated>2014-10-04T15:20:20+08:00</updated>
   <id>http://GainLeee.github.io/</id>
   <author>
     <name><![CDATA[Gain]]></name>
@@ -26,6 +26,8 @@ date: 2014-09-18 22:00:25 +0800
 comments: true</p>
 
 <h2>categories:</h2>
+
+<hr />
 
 <pre><code>一杯咖啡，一个午后。
 
@@ -49,6 +51,8 @@ date: 2014-06-29 14:16:05 +0800
 comments: true</p>
 
 <h2>categories:</h2>
+
+<hr />
 
 <pre><code>又搭起octopress了，但我很懒，以后也不会保持更新博客的固定频率。
 </code></pre>
