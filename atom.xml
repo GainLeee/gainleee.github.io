@@ -4,7 +4,7 @@
   <title><![CDATA[Gain's Blog]]></title>
   <link href="http://GainLeee.github.io/atom.xml" rel="self"/>
   <link href="http://GainLeee.github.io/"/>
-  <updated>2014-10-04T15:35:59+08:00</updated>
+  <updated>2014-10-04T15:49:51+08:00</updated>
   <id>http://GainLeee.github.io/</id>
   <author>
     <name><![CDATA[Gain]]></name>
@@ -18,7 +18,8 @@
     <link href="http://GainLeee.github.io/blog/2014/09/18/za-sui/"/>
     <updated>2014-09-18T22:00:25+08:00</updated>
     <id>http://GainLeee.github.io/blog/2014/09/18/za-sui</id>
-    <content type="html"><![CDATA[<p>&lt;!&mdash; more &mdash;></p>
+    <content type="html"><![CDATA[<!-- more -->
+
 
 <pre><code>一杯咖啡，一个午后。
 
@@ -34,7 +35,8 @@ Caffebene，影院旁的店，人流量不大，也谈不上安静。旁边卖�
     <link href="http://GainLeee.github.io/blog/2014/06/29/first/"/>
     <updated>2014-06-29T14:16:05+08:00</updated>
     <id>http://GainLeee.github.io/blog/2014/06/29/first</id>
-    <content type="html"><![CDATA[<p>&lt;!&mdash; more &mdash;></p>
+    <content type="html"><![CDATA[<!-- more -->
+
 
 <pre><code>又搭起octopress了，但我很懒，以后也不会保持更新博客的固定频率。
 </code></pre>
