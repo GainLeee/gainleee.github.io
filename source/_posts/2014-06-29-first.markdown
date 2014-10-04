@@ -5,5 +5,5 @@ date: 2014-06-29 14:16:05 +0800
 comments: true
 ## categories:
 ---
-\<!-- more --\>
+<!-- more -->
 	又搭起octopress了，但我很懒，以后也不会保持更新博客的固定频率。
