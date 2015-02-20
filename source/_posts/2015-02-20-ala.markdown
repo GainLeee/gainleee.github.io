@@ -6,8 +6,6 @@ comments: true
 categories: 
 ---
 <!-- more -->
-#好大一只哈士奇
-
 这里有一只哈士奇
 
 噢，NO
