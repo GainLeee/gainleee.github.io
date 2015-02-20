@@ -4,7 +4,7 @@
   <title><![CDATA[Gain's Blog]]></title>
   <link href="http://gainlee.info/atom.xml" rel="self"/>
   <link href="http://gainlee.info/"/>
-  <updated>2015-02-20T11:47:57+08:00</updated>
+  <updated>2015-02-20T12:42:59+08:00</updated>
   <id>http://gainlee.info/</id>
   <author>
     <name><![CDATA[Gain]]></name>
@@ -50,36 +50,6 @@
 <p>愚蠢的阿拉斯加</p>
 
 <p>它咬烂了逗比的围巾和裤衩</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Bene]]></title>
-    <link href="http://gainlee.info/blog/2014/09/18/za-sui/"/>
-    <updated>2014-09-18T22:00:25+08:00</updated>
-    <id>http://gainlee.info/blog/2014/09/18/za-sui</id>
-    <content type="html"><![CDATA[<!-- more -->
-
-
-<pre><code>一杯咖啡，一个午后。
-
-Caffebene，影院旁的店，人流量不大，也谈不上安静。旁边卖场的重金属甚至快盖过店里的轻音乐。但当咖啡，音乐，Mac，笔，书，这些元素拼凑在一起的时候总可以让人有个愉悦的心境。阅读也好，debug也罢，或者把以前拍的照片翻出来处理一番也是不错。
-
-快节奏，慢生活。
-</code></pre>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[First]]></title>
-    <link href="http://gainlee.info/blog/2014/06/29/first/"/>
-    <updated>2014-06-29T14:16:05+08:00</updated>
-    <id>http://gainlee.info/blog/2014/06/29/first</id>
-    <content type="html"><![CDATA[<!-- more -->
-
-
-<pre><code>又搭起octopress了，但我很懒，以后也不会保持更新博客的固定频率。
-</code></pre>
 ]]></content>
   </entry>
   
