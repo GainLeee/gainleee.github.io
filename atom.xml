@@ -4,7 +4,7 @@
   <title><![CDATA[Gain's Blog]]></title>
   <link href="http://gainlee.info/atom.xml" rel="self"/>
   <link href="http://gainlee.info/"/>
-  <updated>2015-11-12T23:03:09+08:00</updated>
+  <updated>2015-11-12T23:12:46+08:00</updated>
   <id>http://gainlee.info/</id>
   <author>
     <name><![CDATA[Gain]]></name>
@@ -12,5 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[好大一只哈士奇]]></title>
+    <link href="http://gainlee.info/blog/2015/02/20/ala/"/>
+    <updated>2015-02-20T11:39:30+08:00</updated>
+    <id>http://gainlee.info/blog/2015/02/20/ala</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p>这里有一只哈士奇</p>
+
+<p>噢，NO</p>
+
+<p>那是一只阿拉斯加</p>
+
+<p>一个逗比喂养着它。</p>
+
+<h1></h1>
+
+<p>啊，好大一只哈士奇</p>
+
+<p>姑娘尖叫着抚摸它</p>
+
+<p>噢，NO</p>
+
+<p>那是一只阿拉斯加</p>
+
+<p>只是有点蠢蠢哒</p>
+
+<h1></h1>
+
+<p>啊，愚蠢的阿拉斯加</p>
+
+<p>逗比经常不陪它</p>
+
+<p>啊，愚蠢的阿拉斯加</p>
+
+<p>它撕咬着逗比的围巾和裤衩</p>
+]]></content>
+  </entry>
   
 </feed>
