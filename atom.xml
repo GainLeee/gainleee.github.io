@@ -4,7 +4,7 @@
   <title><![CDATA[Gain's Blog]]></title>
   <link href="http://gainlee.com/atom.xml" rel="self"/>
   <link href="http://gainlee.com/"/>
-  <updated>2015-11-15T22:30:52+08:00</updated>
+  <updated>2015-11-15T22:34:14+08:00</updated>
   <id>http://gainlee.com/</id>
   <author>
     <name><![CDATA[Gain]]></name>
@@ -23,13 +23,12 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Huabanyu]]></title>
-    <link href="http://gainlee.com/blog/2015/11/15/huabanyu/"/>
-    <updated>2015-11-15T00:00:00+08:00</updated>
-    <id>http://gainlee.com/blog/2015/11/15/huabanyu</id>
-    <content type="html"><![CDATA[<h1>天空飘着花瓣雨</h1>
+    <title type="html"><![CDATA[天空飘着花瓣雨]]></title>
+    <link href="http://gainlee.com/blog/2015/02/20/huabanyu/"/>
+    <updated>2015-02-20T11:39:30+08:00</updated>
+    <id>http://gainlee.com/blog/2015/02/20/huabanyu</id>
+    <content type="html"><![CDATA[<!-- more -->
 
-<hr />
 
 <p><img src="img/huabanyu.jpg" alt="花瓣雨" /></p>
 
