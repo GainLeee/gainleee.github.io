@@ -2,22 +2,30 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://gainlee.com/blog/2015/02/20/ala/</loc>
-        <lastmod>2015-11-13T12:41:46+08:00</lastmod>
+        <lastmod>2015-11-15T20:03:18+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://gainlee.com/blog/2015/11/15/test/</loc>
+        <lastmod>2015-11-15T20:09:43+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://gainlee.com/blog/about/</loc>
+        <lastmod>2015-11-15T20:17:33+08:00</lastmod>
     </url>
     <url>
         <loc>http://gainlee.com/blog/archives/</loc>
-        <lastmod>2015-11-13T12:41:46+08:00</lastmod>
+        <lastmod>2015-11-15T20:13:46+08:00</lastmod>
     </url>
     <url>
         <loc>http://gainlee.com/blog/categories/</loc>
-        <lastmod>2015-11-13T12:41:46+08:00</lastmod>
+        <lastmod>2015-11-15T20:13:29+08:00</lastmod>
     </url>
     <url>
         <loc>http://gainlee.com/</loc>
-        <lastmod>2015-11-13T12:41:46+08:00</lastmod>
+        <lastmod>2015-11-15T20:12:24+08:00</lastmod>
     </url>
     <url>
         <loc>http://gainlee.com/robots.txt</loc>
-        <lastmod>2015-11-13T12:41:46+08:00</lastmod>
+        <lastmod>2015-11-15T20:03:18+08:00</lastmod>
     </url>
 </urlset>

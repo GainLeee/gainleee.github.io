@@ -4,7 +4,7 @@
   <title><![CDATA[Gain's Blog]]></title>
   <link href="http://gainlee.com/atom.xml" rel="self"/>
   <link href="http://gainlee.com/"/>
-  <updated>2015-11-14T22:44:22+08:00</updated>
+  <updated>2015-11-15T20:23:03+08:00</updated>
   <id>http://gainlee.com/</id>
   <author>
     <name><![CDATA[Gain]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://gainlee.com/blog/2015/11/15/test/"/>
+    <updated>2015-11-15T20:09:43+08:00</updated>
+    <id>http://gainlee.com/blog/2015/11/15/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[好大一只哈士奇]]></title>
